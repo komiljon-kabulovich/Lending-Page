@@ -1,0 +1,390 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 100px;
+
+
+}
+.nav-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+.nav-1 li a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: #1C1C1C;
+}
+
+.nav-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav-2 li a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+.Page-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 700px;}
+.text-side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
+}
+.text-side h1{
+width: 490px;
+font-family: Roboto;
+font-size: 62px;
+font-weight: 400;
+line-height: 68.64px;
+text-align: left;
+}
+.text-side h2{
+width: 502px;
+left: 40px;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+margin-bottom: 30px;
+}
+.text-side-link a{
+width: 99px;
+height: 16px;
+left: 64px;
+text-decoration: none;
+color: chocolate;
+margin: 0 50px;
+
+}
+.Page-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Page-2-text-side{
+   margin-left: 70px;
+}
+.Page-2-text-side h1{
+    width: 472px;
+    height: 66px;
+    font-family: Roboto;
+font-size: 30px;
+font-weight: 400;
+line-height: 33px;
+text-align: left;   
+}
+.Page-2-text-side h2{
+width: 472px;   
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+}
+.Page-2-text-side a{
+width: 113px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.16px;
+text-align: left;
+text-decoration: none;
+color: chocolate;
+}
+.Page-third{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Page-third-text-side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Page-third-text-side h1{
+    width: 422px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+}
+.Page-third-text-side h2{
+    width: 441px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+}
+.Page-third-text-side a{
+width: 190px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.16px;
+letter-spacing: 0.2879999876022339px;
+text-align: left;
+text-decoration: none;
+color: chocolate;
+}
+.Page-fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Page-fourth-text-side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Page-fourth-text-side h1{
+    width: 369px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+}
+.Page-fourth-text-side h2{
+    width: 425px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+}
+.Page-fourth-text-side a{
+    width: 113px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    text-decoration: none;
+    color: chocolate;
+}
+.Page-fifth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Page-fifth-text-side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right:40px ;
+}
+.Page-fifth-text-side h1{
+    width: 422px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+}
+.Page-fifth-text-side h2{
+    width: 441px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+}
+.Page-fifth-text-side a{
+width: 190px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.16px;
+letter-spacing: 0.2879999876022339px;
+text-align: left;
+text-decoration: none;
+color: chocolate;
+}
+.Page-sixth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.Page-sixth-img-side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Page-sixth-text-side h1{
+    width: 436px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+}
+.Page-sixth-text-side h2{
+    width: 409px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+}
+.Page-sixth-text-side a{
+    width: 181px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    text-decoration: none;
+    color: chocolate;
+}
+.Page-seven{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Page-seven-photos div p{
+    font-size: 16px;
+}
+.Page-seven p{
+    width: 100%;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 36.16px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.Page-seven-photos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 30px;
+}
+.Text-Page{
+    margin-left: 40px;
+}
+
+.Text-Page h1{
+    width: 636px;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+}
+.Text-Page h2{
+    width: 715px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+}
+.link-for-page{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.Text-Page a{
+    width: 181px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    text-decoration: none;
+    color: chocolate;
+   
+}
+.img-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 60px;
+}
+.Img-bottom-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+}
+.Img-bottom-text1 h1{
+width: 202px;
+font-family: Roboto;
+font-size: 26px;
+font-weight: 400;
+line-height: 35.84px;
+text-align: left;
+}
+.Img-bottom-text1 h2{
+    width: 334px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+}
+.Img-bottom-text2 h1{
+    width: 202px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 35.84px;
+    text-align: left;
+    }
+    .Img-bottom-text2 h2{
+        width: 334px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: left;
+    }
+    .Img-bottom-text3 h1{
+        width: 202px;
+        font-family: Roboto;
+        font-size: 26px;
+        font-weight: 400;
+        line-height: 35.84px;
+        text-align: left;
+        }
+        .Img-bottom-text3 h2{
+            width: 334px;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 25px;
+            text-align: left;
+        }
